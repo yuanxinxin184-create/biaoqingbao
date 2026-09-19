@@ -23,3 +23,7 @@
 | 13 | ![13](13.jpg) | 嘴硬/装的（"装的"） | https://cdn.jsdelivr.net/gh/yuanxinxin184-create/biaoqingbao@main/13.jpg |
 | 14 | ![14](14.jpg) | 疑惑/懵（瞪大眼睛，"？"） | https://cdn.jsdelivr.net/gh/yuanxinxin184-create/biaoqingbao@main/14.jpg |
 | 15 | ![15](15.jpg) | 撒娇求关注（小猫照片，"别对我冷冰冰"） | https://cdn.jsdelivr.net/gh/yuanxinxin184-create/biaoqingbao@main/15.jpg |
+| 16 | ![16](16.jpg) | 求贴贴/求抱抱（小猫，"贴贴 贴贴"） | https://cdn.jsdelivr.net/gh/yuanxinxin184-create/biaoqingbao@main/16.jpg |
+| 17 | ![17](17.jpg) | 求关注（小猫大叫，"快理我!!!"） | https://cdn.jsdelivr.net/gh/yuanxinxin184-create/biaoqingbao@main/17.jpg |
+| 18 | ![18](18.jpg) | 自我认证/本猫无疑（"100%柴蛋"） | https://cdn.jsdelivr.net/gh/yuanxinxin184-create/biaoqingbao@main/18.jpg |
+| 19 | ![19](19.jpg) | 追问关系/表白（"你到底做不做我的女人"） | https://cdn.jsdelivr.net/gh/yuanxinxin184-create/biaoqingbao@main/19.jpg |
