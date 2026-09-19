@@ -18,3 +18,8 @@
 | 8 | ![8](8.jpg) | 等你（"等你～"，蝴蝶结小狗） | https://cdn.jsdelivr.net/gh/yuanxinxin184-create/biaoqingbao@main/8.jpg |
 | 9 | ![9](9.jpg) | 等回复（举着手机，"等回复"） | https://cdn.jsdelivr.net/gh/yuanxinxin184-create/biaoqingbao@main/9.jpg |
 | 10 | ![10](10.jpg) | 查岗/查好感度（小猫照片，"申请查询你的好感度"） | https://cdn.jsdelivr.net/gh/yuanxinxin184-create/biaoqingbao@main/10.jpg |
+| 11 | ![11](11.jpg) | 邀请一起睡（狗狗抱小猪，"一起睡不？"） | https://cdn.jsdelivr.net/gh/yuanxinxin184-create/biaoqingbao@main/11.jpg |
+| 12 | ![12](12.jpg) | 睡着了/晚安（盖被子睡觉，"睡了"，ZZ） | https://cdn.jsdelivr.net/gh/yuanxinxin184-create/biaoqingbao@main/12.jpg |
+| 13 | ![13](13.jpg) | 嘴硬/装的（"装的"） | https://cdn.jsdelivr.net/gh/yuanxinxin184-create/biaoqingbao@main/13.jpg |
+| 14 | ![14](14.jpg) | 疑惑/懵（瞪大眼睛，"？"） | https://cdn.jsdelivr.net/gh/yuanxinxin184-create/biaoqingbao@main/14.jpg |
+| 15 | ![15](15.jpg) | 撒娇求关注（小猫照片，"别对我冷冰冰"） | https://cdn.jsdelivr.net/gh/yuanxinxin184-create/biaoqingbao@main/15.jpg |
